@@ -1,0 +1,10 @@
+user_id,username,password,branch_id,role,email
+1,superadmin,super123,,Super Admin,superadmin@company.com
+2,admin_chennai,admin123,1,Admin,chennai@company.com
+3,admin_bangalore,admin123,2,Admin,bangalore@company.com
+4,admin_hyderabad,admin123,3,Admin,hyderabad@company.com
+5,admin_delhi,admin123,4,Admin,delhi@company.com
+6,admin_mumbai,admin123,5,Admin,mumbai@company.com
+7,admin_pune,admin123,6,Admin,pune@company.com
+8,admin_kolkata,admin123,7,Admin,kolkata@company.com
+9,admin_ahmedabad,admin123,8,Admin,ahmedabad@company.com
