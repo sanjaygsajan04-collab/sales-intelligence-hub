@@ -8,7 +8,7 @@ import pandas as pd
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-   "password": "YOUR_MYSQL_PASSWORD",
+   "password": "mysql_password",
     "database": "sales_management_system",
 }
 
