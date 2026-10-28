@@ -1,8 +1,4 @@
-## Screenshots
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Branch admin view](screenshots/admin.png)
-![Data entry](screenshots/data-entry.png)
+
 # Sales Intelligence Hub
 
 A branch-based sales management system built with **MySQL, Python and Streamlit**.
@@ -61,6 +57,13 @@ payment_splits, branches (1) to (many) users.
 | admin_chennai | admin123 | Admin (Chennai) |
 
 (Demo data only. A production system would store hashed passwords.)
+
+## Screenshots
+![Login](login.PNG)
+![Dashboard 1](dashboard1.PNG)
+![Dashboard 2](dashboard2.PNG)
+![Dashboard 3](dashboard3.PNG)
+![Dashboard 4](dashboard4.PNG)
 
 ## Key insights
 - Total gross sales: 36,768,000; received: 19,028,113; pending: 17,739,887
