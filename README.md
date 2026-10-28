@@ -1,3 +1,8 @@
+## Screenshots
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Branch admin view](screenshots/admin.png)
+![Data entry](screenshots/data-entry.png)
 # Sales Intelligence Hub
 
 A branch-based sales management system built with **MySQL, Python and Streamlit**.
